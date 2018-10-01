@@ -1,0 +1,10 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Functions/obj/Debug/netcoreapp2.0/Functions.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Functions/obj/Debug/netcoreapp2.0/Functions.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Functions/obj/Debug/netcoreapp2.0/Functions.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Functions/bin/Debug/netcoreapp2.0/Functions.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Functions/bin/Debug/netcoreapp2.0/Functions.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Functions/bin/Debug/netcoreapp2.0/Functions.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Functions/bin/Debug/netcoreapp2.0/Functions.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Functions/bin/Debug/netcoreapp2.0/Functions.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Functions/obj/Debug/netcoreapp2.0/Functions.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day1/Functions/obj/Debug/netcoreapp2.0/Functions.pdb
